@@ -7,6 +7,8 @@ public class practiseclass
 	{
 		System.out.println("Done");		
 		System.out.println("Done2");
+		System.out.println("Done3");
+
 	}
 
 }
